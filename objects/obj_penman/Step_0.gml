@@ -1,7 +1,7 @@
 /// @description Movement and Collision
 // You can write your code in this editor
-
-// get inputs	
+// right
+	
 rightPressed = -keyboard_check(ord("A"))
 leftPressed = keyboard_check(ord("D"));
 downPressed = keyboard_check(ord("S"));
@@ -29,19 +29,6 @@ if (place_meeting(x, y+yVelocity, obj_basicWall)) {
 	}
 	yVelocity = 0;
 }
-// apply speed
+
 x += xVelocity;
 y += yVelocity;
-
-
-//shooting mechanics
-//get input
-
-
-switch (keyboard_key)
-	{
-		case vk_right: break;
-		case vk_left:  break;
-		case vk_down:  break;
-		case vk_up: break;
-	}
