@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1348e072-e458-44c2-9db3-04a4d09da104",
+            "Value": {
+                "id": "fc851e14-4432-4862-b16d-209e786be7cb",
+                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "163aab31-cfcc-4081-82a9-ff25b987c30e",
             "Value": {
                 "id": "3970e4ba-2692-4ff6-8f6a-ff2c7280fa8f",
@@ -332,6 +340,14 @@
                 "id": "08ccf680-42a3-45a7-9866-97bcd7774c4e",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f925214f-dad8-417b-8004-861110a1d8b5",
+            "Value": {
+                "id": "973d6ed4-8798-42f6-aa7a-7b87f6a6299d",
+                "resourcePath": "objects\\obj_basicEnemy\\obj_basicEnemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
